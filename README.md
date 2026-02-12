@@ -3,6 +3,7 @@ Hi 👋 I'm **Piyush Kumar**
 💻 Full Stack Developer  
 🚀 Passionate about building Web & AI Applications  
 🌱 Currently learning Cloud, AI & Scalable Systems  
+ai and roboitcs 
 
 ---
 
